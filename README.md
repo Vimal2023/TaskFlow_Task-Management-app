@@ -1,5 +1,8 @@
 # TaskFlow
 
+<img width="500" height="500" alt="Abstract Task Manager App Logo Efficiency" src="https://github.com/user-attachments/assets/d0c33677-263f-4a45-b462-50bc98a32a74" />
+
+
 A modern, responsive task management application built with React, TypeScript, and Redux Toolkit. This application simulates a full-stack experience using Mock Service Worker (MSW) for API mocking.
 
 ## 🚀 Features
