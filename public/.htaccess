@@ -1,0 +1,4 @@
+# Ensure MSW worker is served with correct MIME type
+<Files "mockServiceWorker.js">
+    Header set Content-Type "application/javascript"
+</Files>
